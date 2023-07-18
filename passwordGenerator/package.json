@@ -1,0 +1,22 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "Gerador de Senha seguras",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "eslint ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^4.0.1",
+    "vite": "^4.2.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}

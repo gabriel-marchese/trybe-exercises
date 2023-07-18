@@ -1,0 +1,15 @@
+{
+  "name": "imc-exercise",
+  "version": "1.0.0",
+  "description": "Exercicio de fixação",
+  "main": "index.js",
+  "scripts": {
+    "bmi": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Marchese",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
